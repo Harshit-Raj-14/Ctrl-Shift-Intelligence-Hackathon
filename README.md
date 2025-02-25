@@ -73,8 +73,6 @@ cd backend
 
 **Make a .env file**
 ```
-OPENAI_API_KEY=
-GEMINI_API_KEY=
 GROQ_API_KEY=
 ELEVEN_LAB_API_KEY=
 ```
