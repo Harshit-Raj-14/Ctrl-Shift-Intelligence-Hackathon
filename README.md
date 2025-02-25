@@ -54,7 +54,7 @@ The Virtual Meeting Room feature allows users to join virtual meetings in a 3D e
 ---
 
 ## Tech Stack
-**React.js, Node.js, Gemini, Python, Streamlit, ElevenLabs, Groq LLM, Codebuff**
+**React.js, Node.js, Gemini, Python, Streamlit, ElevenLabs, Groq**
 
 ## Run the project
 **1. Clone/Download this repo.**
